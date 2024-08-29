@@ -1,4 +1,4 @@
-<h1>Hola 👋</h1>
+<h1>Hola 👋! Soy Efrén</h1>
 <p>Entusiasta Desarrollador Full Stack que encuentra el gusto y placer en plasmar en código todo lo que se pueda imaginar.</p>
 <h2>🚀 Lenguajes y herramientas</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
