@@ -1,5 +1,5 @@
 <h1>Hola 👋</h1>
-<p>Un intrépido Desarrollador Full Stack que encuentra el gusto y placer en plasmar en código todo lo que se pueda imaginar.</p>
+<p>Entusiasta Desarrollador Full Stack que encuentra el gusto y placer en plasmar en código todo lo que se pueda imaginar.</p>
 <h2>🚀 Lenguajes y herramientas</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
