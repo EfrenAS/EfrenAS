@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Entusiasta Full Stack con dos años de experiencia en el desarrollo web, disfruto de plasmar en el código todo lo aprendido y adquirido en el mundo de la programación.</p>
+<p align="left">Entusiasta Full Stack con dos años de experiencia en el desarrollo web con tecnologías como Javascript, Typescript y PHP, disfruto de plasmar en el código todo lo aprendido y adquirido en el mundo de la programación, siempre abierto a nuevas oportunidades y retos.</p>
 
 ###
 
